@@ -1,4 +1,4 @@
-#Encoded By : Madni Boys
+#Encoded By : Zainab Awan
 #Encryption : Py3 Marshal
 #Py3 Version : 3.10.4
 
